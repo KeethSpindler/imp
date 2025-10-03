@@ -1,0 +1,79 @@
+{
+    "users": {
+        "178851504076095488": {
+            "name": "Brady",
+            "embed_color": "15844367"
+        },
+        "323968599687430145": {
+            "name":  "Carlie",
+            "embed_color": "10181046"
+        },
+        "191384926321508353": {
+            "name": "James",
+            "embed_color": "9807270"
+        },
+        "179051738354024449": {
+            "name": "Derick",
+            "embed_color": "3447003"
+        },
+        "636724139922554893": {
+            "name": "Keeth",
+            "embed_color": "15158332"
+        },
+        "209101464944115713": {
+            "name": "Rob",
+            "embed_color": "15105570"
+        },
+        "422470851435298818": {
+            "name": "Robbot",
+            "embed_color": "16580705"
+        }
+    },
+    "8ball_responses" : [
+        "As I see it, yes.",
+        "Ask again later.",
+        "Better not tell you now.",
+        "Cannot predict now.",
+        "Concentrate and ask again.",
+        "Dont count on it.",
+        "It is certain.",
+        "It is decidedly so.",
+        "Most likely.",
+        "My reply is no.",
+        "My sources say no.",
+        "Outlook not so good.",
+        "Outlook good.",
+        "Reply hazy, try again.",
+        "Signs point to yes.",
+        "Very doubtful.",
+        "Without a doubt.",
+        "Yes.",
+        "Yes - definitely.",
+        "You may rely on it."
+    ],
+    "colors":{
+        "DEFAULT": 0,
+        "AQUA": 1752220,
+        "GREEN": 3066993,
+        "BLUE": 3447003,
+        "PURPLE": 10181046,
+        "GOLD": 15844367,
+        "ORANGE": 15105570,
+        "RED": 15158332,
+        "GREY": 9807270,
+        "DARKER_GREY": 8359053,
+        "NAVY": 3426654,
+        "DARK_AQUA": 1146986,
+        "DARK_GREEN": 2067276,
+        "DARK_BLUE": 2123412,
+        "DARK_PURPLE": 7419530,
+        "DARK_GOLD": 12745742,
+        "DARK_ORANGE": 11027200,
+        "DARK_RED": 10038562,
+        "DARK_GREY": 9936031,
+        "LIGHT_GREY": 12370112,
+        "DARK_NAVY": 2899536,
+        "LUMINOUS_VIVID_PINK": 16580705,
+        "DARK_VIVID_PINK": 12320855
+    }
+}

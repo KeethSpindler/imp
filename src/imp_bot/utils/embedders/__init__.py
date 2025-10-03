@@ -1,0 +1,1 @@
+from imp_bot.utils.embedders.drink_embedder import DrinkEmbedder
