@@ -1,7 +1,7 @@
 [project]
 name = "imp_bot"
 version = "1.1.0"
-description = "Add your description here"
+description = "Imp is a Discord bot serving miscellaneous purposes with plans to expand into a comprehensive Dungeons & Dragons utility tool"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [

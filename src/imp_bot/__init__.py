@@ -1,3 +1,2 @@
-__authors__ = ["monkfishfillet"]
-__version__ = "1.0.0"
-
+__authors__ = ["Keeth Spindler <keeth.spindler@gmail.com>"]
+__version__ = "1.1.0"
